@@ -1,0 +1,41 @@
+﻿  bullet.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\bullet.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  collectible.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\collectible.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  game.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\game.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  gameover.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\gameover.h(3,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  greenzombie.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\greenzombie.h(1,9): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  handgun.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\handgun.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  handgunammo.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\handgunammo.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  hud.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\game.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  lifecollectible.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\lifecollectible.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  main.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\main.cpp(1,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  menu.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\menu.h(1,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  player.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\player.h(5,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  redzombie.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\redzombie.h(1,9): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  rifle.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\rifle.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  rifleammo.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\rifleammo.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  shotgun.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\shotgun.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  shotgunammo.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\shotgunammo.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  wave.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\wave.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  weapon.cpp
+C:\Users\Mael\Desktop\Le Bon Projet\until_i_die-master\until_i_die_Visual\weapon.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  zombie.cpp
+c1xx : fatal error C1083: Impossible d'ouvrir le fichier source : 'zombie.cpp' : No such file or directory
+  Génération de code en cours...
